@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Freshup März 2021">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="KAIRO:KAIRO\Administrator">
+          <Created>2021-03-19T17:39:28.4039141+01:00</Created>
+          <Type>SQL</Type>
+          <Server>KAIRO</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0002_Virtuaisierung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0002_Virtuaisierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_Setup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0003_Setup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_ContainedDatabase.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0005_ContainedDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_ADR_Fill1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0006_ADR_Fill1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_ADR_Fill2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0006_ADR_Fill2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_ADR_SETUP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0006_ADR_SETUP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_AlwaysEnc_tabelle.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_AlwaysEnc_tabelle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Besitzverkettung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_Besitzverkettung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Dynamic Data Masking.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_Dynamic Data Masking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_RowLevelSec.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_RowLevelSec.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Security.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_Security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_TDE_ backup_restore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_TDE_ backup_restore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_TDE_ einrichten.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_TDE_ einrichten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_inMemory_SQL RealtTime tabellen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_inMemory_SQL RealtTime tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_inMemoryTabelle und_Bucket Count.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_inMemoryTabelle und_Bucket Count.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_Backup_Restore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_Backup_Restore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_Wartungplan.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_Wartungplan.sql</FullPath>
+        </FileNode>
+        <FileNode Name="001_Orga.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>001_Orga.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0010_Graph_Shortest.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0010_Graph_Shortest.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_TSQL_ApproxCount.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_TSQL_ApproxCount.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_TSQL_BatchMode_rowMode.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_TSQL_BatchMode_rowMode.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_TSQL_InlineScalarFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_TSQL_InlineScalarFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_TSQLCuttedData.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_TSQLCuttedData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0012_BufferPool.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0012_BufferPool.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0013_Schätzen der ColumnStoreKompression.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0013_Schätzen der ColumnStoreKompression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0014_Tempdb Metadaten.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0014_Tempdb Metadaten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="002_Installation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>002_Installation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0020_TemporalTables_1_Aktivieren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0020_TemporalTables_1_Aktivieren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0021_TemporalTables_2_Demo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0021_TemporalTables_2_Demo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0030_AdaptivMemoryGrant.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0030_AdaptivMemoryGrant.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0031_TSQL_AdaptiveJoins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0031_TSQL_AdaptiveJoins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0032_TableVariable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0032_TableVariable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0100_Indizierte Sicht_SichtProbleme.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0100_Indizierte Sicht_SichtProbleme.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0101_MAXDOP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0101_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0102_DDL Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0102_DDL Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0104_ColumnStore Allg.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0104_ColumnStore Allg.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DDL Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IX Online Pause Resume.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IX Online Pause Resume.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Waiting_Job.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Waiting_Job.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Zeilenversionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Zeilenversionierung.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
